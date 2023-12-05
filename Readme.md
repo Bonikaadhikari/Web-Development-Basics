@@ -1,36 +1,21 @@
 <!-- This is a comment -->
 
-# Heading 1
+# Web Development Basics
+## Introduction
+Welcome to the Web Development Basics repository! This repository is designed to provide an introduction to fundamental concepts in web development. Each folder in this repository covers a specific topic, including essential concepts, explanations, and relevant assets. Let's drive in! 
 
-## Heading 2
+--- 
+Give a ⭐ to support this repo 
+---
 
-### Heading 3
+## Table Of Contents
+1. [Web Browser]()
+2. [Http and Https]()
+3. [Http Request Methods]()
+4. [Client-Server Architecture]()
+4. [MVC Architecture]()
+5. [Peer-to-Peer Architecture]()
+6. [TCP/IP and UDP]()
 
-#### Heading 4
 
-##### Heading 5
 
-###### Heading 6
-
-## Paragraph
-This is a paragraph.  
-This is line 1
-
-## Lists
-
-### Unordered Lists
-* List 1
-    + List 1.1
-        + List 1.1.1
-+ List 2 
-
-### Ordered Lists
-1. List 1
-    1. List 1.1
-2. List 2
-3. List 3
-
-`<p> This is a paragraph </p>`
-
-<!-- Links -->
-[Click here](https://github.com/Bonikaadhikari/Web-Development-Basics "My github Repo")

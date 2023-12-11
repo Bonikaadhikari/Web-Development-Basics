@@ -21,3 +21,5 @@
 
 
 In summary, HTTP is a protocol that facilitates communication between clients and servers on the World Wide Web.  It adds a layer of security to the data exchange between a client (such as a web browser) and a server, protecting the confidentiality and integrity of the transmitted information.It outlines the format of messages, defines methods for interacting with resources, and establishes a set of rules for reliable data exchange, forming the backbone of web-based communication.
+
+### If you want to know further about HTTP methods and Status follow this link. [More about HTTP](./RequestMethodAndStatusCode/readme.md)

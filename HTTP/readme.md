@@ -13,6 +13,9 @@
 
 4. State Management:
     HTTP is stateless, but applications often require maintaining state. Techniques like cookies and sessions are used to store information on the client or server side to create a sense of continuity between requests.
+5. Server Processing:
+    The server receives the HTTP request and processes it based on the provided method, URL, and headers. The server performs the necessary actions, such as retrieving data, updating resources, or generating dynamic content.
+
 # **HTTPS**
     HTTPS (Hypertext Transfer Protocol Secure) is an extension of HTTP that uses encryption protocols (such as TLS/SSL) to secure the communication between the client and server.  It adds a layer of security to the data exchange between a client (such as a web browser) and a server, protecting the confidentiality and integrity of the transmitted information
 

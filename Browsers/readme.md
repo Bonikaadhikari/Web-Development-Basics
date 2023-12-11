@@ -11,7 +11,7 @@ A web browser is a graphical user interface (GUI) application designed to provid
     The browsing process initiates when a user enters a URL, clicks on a hyperlink, or requests a specific webpage.
 
 2. #### DNS Resolution:
-    The browser translates the user-friendly domain into an IP address using the Domain Name System (DNS), crucial for locating the server hosting the requested website.
+    The browser translates the user-friendly domain into an IP address using the Domain Name System (DNS), crucial for locating the server hosting the requested website. If the browser cache does not contain a recent copy of the DNS record, or if the DNS record has changed since the last time it was cached, the browser will send a request to the DNS server to resolve the domain name to an IP address
 
 3. #### HTTP Request:
     A crucial step follows as the browser sends an HTTP (Hypertext Transfer Protocol) request to the server associated with the identified IP address.
@@ -23,7 +23,7 @@ A web browser is a graphical user interface (GUI) application designed to provid
 
 In conclusion, a web browser serves as a mediator, facilitating a smooth interaction between users and servers to deliver the desired results. Its process of fetching, rendering, and displaying content ensures an enhanced and secure browsing experience, making the vast landscape of the internet easily accessible and navigable for users.
 
-<img title="Picture Credit: Aacademind" src="./d.jpg" height = 400 width=auto>
+<img title="Picture Credit: Aacademind" src="./imgs/working.jpg" height = 400 width=auto>
 
 ### **Some common Web browser**
 1. Chrome
@@ -33,5 +33,5 @@ In conclusion, a web browser serves as a mediator, facilitating a smooth interac
 5. Opera Mini
 6. Internet Expolrer
 
-<img title="Picture Credit: StartupTalky(ATHUL C K)" src="./n.jpg" height=200>
+<img title="Picture Credit: StartupTalky(ATHUL C K)" src="./imgs/browsers.jpg" height=200>
 

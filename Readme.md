@@ -10,8 +10,7 @@ Give a ⭐ to support this repo
 
 ## Table Of Contents
 1. [Web Browser](./Browsers/readme.md)
-2. [Http and Https]()
-3. [Http Request Methods]()
+2. [Http and Https](./HTTP/readme.md)
 4. [Client-Server Architecture]()
 4. [MVC Architecture]()
 5. [Peer-to-Peer Architecture]()

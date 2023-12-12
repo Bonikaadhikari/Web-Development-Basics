@@ -34,7 +34,16 @@ HTTP responses include status codes that indicate the outcome of the request. Co
 
 
  - **3xx (Redirection)(300-399)**:   
- Further action needs to be taken to complete the request.  
+ Further action needs to be taken to complete the request.   
+    | Status Code | Message |
+    |-------------|---------|
+    |    300      |  Multiple Choices     |  
+    |    301      |  Moved Permanently  | 
+    |    302      |   Found   |
+    |    304     | Not Modified
+    |    307     |  Temporary Redirect|
+    |    308      |  Permanent Redirect
+ 
     
  - **4xx (Client Error)(400-499)**:   
  The request contains bad syntax or cannot be fulfilled.   
